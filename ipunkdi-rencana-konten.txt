@@ -1,0 +1,6 @@
+RENCANA KONTEN IPUNKDI
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
